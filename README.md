@@ -3,6 +3,17 @@
 
 **15363738/15363738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<details>
+
+<Summary> My top lauguages </Summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1|   C     |
+|     2|   C++   |
+|     3|   Python|
+
+</details>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
